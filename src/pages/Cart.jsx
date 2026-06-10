@@ -253,3 +253,4 @@ const Cart = () => {
 };
 
 export default Cart;
+// cart.jsx
