@@ -113,3 +113,4 @@ export function useCart() {
 }
 
 export default CartContext;
+// CartContext.jsx
